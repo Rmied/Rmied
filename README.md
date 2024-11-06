@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Long Traan, but you can call me "Rmie"</h1>
-<h3 align="center">I am a college student at Ho Chi Minh City University of Information Technology(UIT)</h3>
+<h1 align="center">Hi 👋, WELLCOME TO MY PROFILE!</h1>
+<h3 align="center">-Im Rmied-</h3>
+<h3 align="center">Im a college student at Ho Chi Minh City University of Information Technology(UIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmie&label=Profile%20views&color=0e75b6&style=flat" alt="rmie" /> </p>
 
