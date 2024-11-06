@@ -2,7 +2,7 @@
 <h3 align="center">-Im Mias-</h3>
 <h3 align="center">Im a college student at Ho Chi Minh City University of Information Technology(UIT)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmie&label=Profile%20views&color=0e75b6&style=flat" alt="rmie" /> </p>
+
 
 - 📫 Contact **traanngoclong10a4@gmail.com**
 
